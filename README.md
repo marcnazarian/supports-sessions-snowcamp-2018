@@ -1,5 +1,5 @@
 # Supports et slides des sessions présentées à la conférence SnowCamp 2018
-![Logo SnowCamp](https://snowcamp.io/img/alpes-snow-full-illustration-orig.png)
+![Logo SnowCamp](https://snowcamp.io/img/alpes-snow-full-illustration-orig.png =250x)
 
 
 ## Journée du mercredi 24 janvier 2018 (Universités)
