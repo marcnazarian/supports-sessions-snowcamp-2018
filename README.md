@@ -7,10 +7,11 @@
 [GraphQL et React Native](http://snowcamp.surge.sh) - Victor Sabatier ([@sabativi](https://twitter.com/sabativi))
 
 
-[Docker, Kubernetes, and OpenShift for Java Developers](bit.ly/javaoneworkshop) - Marek Jelen ([@marek_jelen](https://twitter.com/marek_jelen))
+[Docker, Kubernetes, and OpenShift for Java Developers](http://bit.ly/javaoneworkshop) - Marek Jelen ([@marek_jelen](https://twitter.com/marek_jelen))
 
 
-[Highway to Elm](https://github.com/jgrenat/elm-workshop) - Jordane Grenat ([@jogrenat](https://twitter.com/jogrenat))
+[Highway to Elm](http://slides.com/ereold/elmlang-workshop#/) - Jordane Grenat ([@jogrenat](https://twitter.com/jogrenat))
+ * https://github.com/jgrenat/elm-workshop
 
 
 ## Journée du jeudi 23 novembre 2017 (Conférences)
