@@ -33,8 +33,20 @@
 [Angular 5, Microservices Java et Kubernetes dans Azure](https://github.com/Mimetis/Jhispter-Kubernetes) - Sébastien PERTUS ([@sebpertus](https://twitter.com/sebpertus))
 
 
+[Quand un lock a besoin d'être distribué ](https://fr.slideshare.net/karesti/quand-un-lock-a-besoin-dtre-distribu) - Katia Aresti ([@karesti](https://twitter.com/karesti))
+
+
 
 ## Journée du vendredi 24 novembre 2017 (Conférences)
 
+[DSL.using(java).toGoBeyond(BeanValidation).at(Snowcamp);](http://doov.io/dsl_to_go_beyond_bean_validation_snowcamp.html#/) - Alexandre Dubreuil ([@dubreuia](https://twitter.com/dubreuia))
 
+
+[La sécurité dans l'IoT : difficultés, failles et contre-mesures](https://speakerdeck.com/alexisduque/la-securite-dans-liot-difficultes-failles-et-contre-mesures) -  Alexis Duque ([@alexis0duque](https://twitter.com/alexis0duque))
+
+
+[HTTP/2 en pratique](http://prez.sewatech.fr/http2) - Alexis Hassler ([@AlexisHassler](https://twitter.com/AlexisHassler))
+ * https://github.com/hasalex/pz-http2-demo
+ 
+ 
 
