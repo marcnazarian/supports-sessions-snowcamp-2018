@@ -42,6 +42,9 @@
 [DSL.using(java).toGoBeyond(BeanValidation).at(Snowcamp);](http://doov.io/dsl_to_go_beyond_bean_validation_snowcamp.html#/) - Alexandre Dubreuil ([@dubreuia](https://twitter.com/dubreuia))
 
 
+[SMACK my data up](https://speakerdeck.com/mverriez/smack-my-data-up) -  Manuel Verriez ([@mverriez](https://twitter.com/mverriez))
+
+
 [La sécurité dans l'IoT : difficultés, failles et contre-mesures](https://speakerdeck.com/alexisduque/la-securite-dans-liot-difficultes-failles-et-contre-mesures) -  Alexis Duque ([@alexis0duque](https://twitter.com/alexis0duque))
 
 
