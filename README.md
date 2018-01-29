@@ -39,6 +39,9 @@
 
 ## Journée du vendredi 24 novembre 2017 (Conférences)
 
+Keynote : [Framasoft - Vers la dégooglisation et au delà !](https://schd.ws/hosted_files/snowcamp2018/63/framasoft-snowcamp.pdf) - Antoine Duparay ([@flaburgan](https://twitter.com/flaburgan)) et Marien Fressinaud ([@berumuron](https://twitter.com/berumuron))
+
+
 [DSL.using(java).toGoBeyond(BeanValidation).at(Snowcamp);](http://doov.io/dsl_to_go_beyond_bean_validation_snowcamp.html#/) - Alexandre Dubreuil ([@dubreuia](https://twitter.com/dubreuia))
 
 
