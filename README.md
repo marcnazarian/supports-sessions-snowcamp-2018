@@ -52,4 +52,6 @@
  * https://github.com/hasalex/pz-http2-demo
  
  
+[Data privacy, reprenez le contrôle !](https://fr.slideshare.net/sauthieg/data-privacy-reprenez-le-contrle) - Guillaume Sauthier ([@sauthieg](https:/twitter.com/sauthieg))
+
 
