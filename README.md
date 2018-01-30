@@ -27,6 +27,9 @@
 [Métriques applicatives avec Prometheus et Grafana](https://speakerdeck.com/eunomie/metriques-applicatives-avec-prometheus-et-grafana) - Yves Brissaud ([@_crev_](https://twitter.com/_crev_))
 
 
+[OAuth 2.0 pour sécuriser l'IoT](https://schd.ws/hosted_files/snowcamp2018/65/OAuth2%20to%20secure%20an%20IoT%20protocol.pdf) - Laurent Vaills ([@laurentvaills](https://twitter.com/laurentvaills))
+
+
 [Réconcilier livraison continue et sécurité](https://lesuisse.github.io/slides/SnowCamp/SnowCamp_Enalean_Continuous_Delivery_Secure_Code_Delivery.pdf) - Thomas Gerbet ([@el_suisse](https://twitter.com/@el_suisse))
 
 
