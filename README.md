@@ -58,6 +58,9 @@ Keynote : [Framasoft - Vers la dégooglisation et au delà !](https://schd.ws/ho
  * https://github.com/hasalex/pz-http2-demo
  
  
+[140 releases per month](https://schd.ws/hosted_files/snowcamp2018/e2/140%20releases%20per%20month.pdf) - Manuel Vacelet ([@vaceletm](https://twitter.com/vaceletm))
+
+ 
 [Data privacy, reprenez le contrôle !](https://fr.slideshare.net/sauthieg/data-privacy-reprenez-le-contrle) - Guillaume Sauthier ([@sauthieg](https://twitter.com/sauthieg))
 
 
