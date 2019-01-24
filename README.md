@@ -14,7 +14,7 @@
  * https://github.com/jgrenat/elm-workshop
 
 
-## Journée du jeudi 23 novembre 2017 (Conférences)
+## Journée du jeudi 25 janvier 2018 (Conférences)
 
 [Tout ce que vous avez toujours voulu savoir sur la programmation fonctionnelle sans jamais oser le demander](https://www.youtube.com/watch?v=IQ1kDpGeoCk&t=2s) - Xavier Detant ([@XDetant](https://twitter.com/XDetant))
 
@@ -40,7 +40,7 @@
 
 
 
-## Journée du vendredi 24 novembre 2017 (Conférences)
+## Journée du vendredi 26 janvier 2018 (Conférences)
 
 Keynote : [Framasoft - Vers la dégooglisation et au delà !](https://schd.ws/hosted_files/snowcamp2018/63/framasoft-snowcamp.pdf) - Antoine Duparay ([@flaburgan](https://twitter.com/flaburgan)) et Marien Fressinaud ([@berumuron](https://twitter.com/berumuron))
 
